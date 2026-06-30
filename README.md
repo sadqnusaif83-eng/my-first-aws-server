@@ -36,6 +36,10 @@ sudo systemctl enable httpd
 - AWS Security Group (firewall) configuration
 - Basic networking concepts applied in a cloud environment
 
+- ## 📸 Screenshot
+
+![Server Running](screenshot-server-running.png)
+
 ## 🎯 Background
 
 I come from a Network Systems Administration background and am currently building cloud computing skills, working toward the **AWS Certified Solutions Architect – Associate** certification.
@@ -50,3 +54,5 @@ I come from a Network Systems Administration background and am currently buildin
 ---
 
 *This project is part of my ongoing learning journey into Cloud Computing and DevOps.*
+
+
