@@ -38,7 +38,7 @@ sudo systemctl enable httpd
 
 - ## 📸 Screenshot
 
-![Server Running](screenshot-server-running.png)
+![Server Running](screenshot-server-running.png.PNG)
 
 ## 🎯 Background
 
